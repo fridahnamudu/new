@@ -26,15 +26,15 @@ Display the preview of an article	On page load	Each article displays an image,de
 To Read an entire article	Click an article	Redirected to the news source's site to read the entire article
 SetUp / Installation Requirements
 Prerequisites
-python3.6
+python3
 pip
 virtualenv
 Cloning
 In your terminal:
 
-  $ git clone https://github.com/fridahnamudu/newsapi.git
+  $ git clone https://github.com/fridahnamudu/new.git
   
-  $ cd NewsPI
+  $ cd Newsapi
   
 Running the Application
 
