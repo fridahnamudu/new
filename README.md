@@ -26,9 +26,13 @@ Display the preview of an article	On page load	Each article displays an image,de
 To Read an entire article	Click an article	Redirected to the news source's site to read the entire article
 SetUp / Installation Requirements
 Prerequisites
+
 python3
+
 pip
+
 virtualenv
+
 Cloning
 In your terminal:
 
@@ -72,8 +76,11 @@ To run the tests for the class files:
 
   $ python3 manage.py tests
 Technologies Used
+
 Python3
+
 Flask
+
 License
 Copyright (c) 2020 Fridahnamudu
 
