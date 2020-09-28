@@ -33,8 +33,11 @@ Cloning
 In your terminal:
 
   $ git clone https://github.com/fridahnamudu/newsapi.git
+  
   $ cd NewsPI
+  
 Running the Application
+
 Creating the virtual environment
 
   $ python3.6 -m venv --without-pip virtual
